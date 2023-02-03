@@ -1,4 +1,4 @@
 # folder-tree-structure-js
 
-https://user-images.githubusercontent.com/59474861/216552023-89a4ac98-34e8-42b7-890e-4427ad76d0db.mov
 
+![demo](https://user-images.githubusercontent.com/59474861/216552378-38e6fdd8-0170-450c-862f-784f4c387638.gif)
