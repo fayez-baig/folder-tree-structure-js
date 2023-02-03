@@ -1,0 +1,40 @@
+#folder-tree-container {
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+#folder-tree {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.folder-name {
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.folder-name::before {
+  content: "📁";
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+.folder-content {
+  display: none;
+  padding-left: 20px;
+}
+
+.folder-content.open {
+  display: block;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.file-name::before {
+  content: "📄";
+  font-size: 14px;
+  margin-right: 5px;
+}
